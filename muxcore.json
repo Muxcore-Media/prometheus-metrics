@@ -1,0 +1,10 @@
+{
+  "name": "Prometheus Metrics",
+  "description": "Prometheus metrics exposition with request tracking, event throughput, module health, and cluster monitoring",
+  "version": "1.0.0",
+  "author": "Muxcore-Media",
+  "kind": "provider",
+  "capabilities": ["metrics.prometheus", "metrics.http", "metrics.events", "metrics.cluster"],
+  "dependencies": [],
+  "homepage": "https://github.com/Muxcore-Media/prometheus-metrics"
+}
